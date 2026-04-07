@@ -4,6 +4,8 @@ A quantitative macro regime model that uses copper and global
 macro signals to classify market states and forecast next-month 
 S&P 500 returns.
 
+2026.03.02
+
 ## Overview
 
 Built a 3-state regime model (Risk-ON / Neutral / Risk-OFF) using 
