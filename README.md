@@ -37,7 +37,7 @@ macro environment.
 
 - `fetch-data.py` — data fetching script
 - `01_eda.ipynb` — full analysis notebook
-- 'master_monthy.csv' - processed data
+- `master_monthy.csv` - processed data
 
 ## Tech Stack
 
