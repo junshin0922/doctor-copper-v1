@@ -181,7 +181,7 @@ fig.add_trace(go.Scatter(
 
 fig.add_trace(go.Scatter(
     x=df.index, y=df["composite"],
-    line=dict(color="#ffffff", width=1.5, dash="dot"),
+    line=dict(color="#E0A118", width=1.5, dash="dot"),
     name="Composite Signal"
 ), row=2, col=1)
 
