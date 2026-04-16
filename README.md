@@ -8,6 +8,9 @@ S&P 500 returns.
 
 ---
 
+## Acknowledgements
+This project was developed with assistance from Claude (AI) for coding support, and debugging.
+
 ## Overview
 
 Built a 3-state regime model (Risk-ON / Neutral / Risk-OFF) using
